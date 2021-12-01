@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-provider-scaffolding-framework
+module github.com/bflad/terraform-provider-scaffoldingtest
 
 go 1.17
 
